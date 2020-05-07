@@ -4,5 +4,7 @@ Shot Core On Camera Remote by Charles Forman
 Back story and operation is at:
 https://github.com/wonderunit/storyboarder/wiki/Shot-Core-On-Camera-Remote
 
+Hardware
+
 
 
