@@ -9,8 +9,6 @@ https://github.com/wonderunit/storyboarder/wiki/Shot-Core-On-Camera-Remote
 
 ![assembled_front](https://user-images.githubusercontent.com/4991664/81352881-0ae16e80-909e-11ea-923e-227befddce9c.jpg)
 
-![front_1](https://user-images.githubusercontent.com/4991664/81352910-1896f400-909e-11ea-8d28-bc17dd28864c.jpg)
-
 ![assembled_back](https://user-images.githubusercontent.com/4991664/81352855-fac98f00-909d-11ea-922d-e5fefda77a26.jpg)
 
 ![assembled_back_2](https://user-images.githubusercontent.com/4991664/81352892-116fe600-909e-11ea-85e5-d15e970d16e6.jpg)
