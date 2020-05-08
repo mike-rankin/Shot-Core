@@ -3,7 +3,7 @@ by Charles Forman
 
 ©2020 Wonder Unit, Inc. https://wonderunit.com
 
-**Official page and description is at:**
+**Official page and project details is at:**
 https://github.com/wonderunit/storyboarder/wiki/Shot-Core-On-Camera-Remote
 
 This is a small remote control that mounts on a camera rig. It communicates with a remote system over wifi. The remote has 3-5 buttons: Record, Next Shot, Previous Shot, and Impromptu Shot, and Star. The display shows three main pieces of information: Current Scene, Shot, and Take number. It could also show recording status, and errors that the remote system is alerting.
