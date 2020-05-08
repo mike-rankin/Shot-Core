@@ -9,7 +9,7 @@ https://github.com/wonderunit/storyboarder/wiki/Shot-Core-On-Camera-Remote
 This is a small remote control that mounts on a camera rig. It communicates with a remote system over wifi. The remote has 3-5 buttons: Record, Next Shot, Previous Shot, and Impromptu Shot, and Star. The display shows three main pieces of information: Current Scene, Shot, and Take number. It could also show recording status, and errors that the remote system is alerting.
 
 **Hardware**
-Schematics, Altium Design files, gerber files and test code is all open source.
+Schematics, Altium Design files, gerber files and test code is all open source and available on this site.
 
 ![overlay](https://user-images.githubusercontent.com/4991664/81353364-3add4180-909f-11ea-8cef-ea4d9f2ef701.jpg)
 
